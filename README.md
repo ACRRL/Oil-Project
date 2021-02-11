@@ -6,7 +6,7 @@ In this project, we are developing an IoT device to analyze the transformer oil 
 
 
 
-# Video
+# Video (Presentation)
 ---------------------------------------
 You can access to IPAPS 2021 conference presentation through link below:
 
