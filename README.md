@@ -4,6 +4,10 @@ Transformers are one of the most critical components in the power grid. Most pow
 
 In this project, we are developing an IoT device to analyze the transformer oil without shutting down the grid. By creating this device, the oil sampling and analysis process is done automatically and no longer need to cut off the grid.
 
+The abstract is now available on IEEE Xplore:
+
+https://ieeexplore.ieee.org/document/9375568
+
 
 
 # Video (Presentation)
